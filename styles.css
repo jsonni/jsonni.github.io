@@ -4,5 +4,9 @@ img {
 
 body {
     text-align: center;
-    background-color: lightblue;
+    background-color: lightcyan;
+}
+
+a {
+    text-decoration: none;
 }
